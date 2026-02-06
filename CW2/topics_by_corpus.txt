@@ -1,0 +1,44 @@
+Corpus: NT
+  Best topic index: 2
+  Average topic score: 0.134
+  Top 10 tokens for this topic:
+    said
+    jesus
+    answered
+    man
+    know
+    let
+    did
+    come
+    saw
+    say
+
+Corpus: OT
+  Best topic index: 9
+  Average topic score: 0.122
+  Top 10 tokens for this topic:
+    lord
+    god
+    shall
+    says
+    ot
+    land
+    come
+    people
+    israel
+    nations
+
+Corpus: Quran
+  Best topic index: 1
+  Average topic score: 0.340
+  Top 10 tokens for this topic:
+    god
+    people
+    say
+    lord
+    muhammad
+    truth
+    certainly
+    day
+    believers
+    believe
